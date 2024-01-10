@@ -1,0 +1,67 @@
+---- Inputs ----
+Distance: 42 km
+Cutoff: 5:00:0 hrs
+Buffer time: 0:03:0 hrs
+Water Stop after every: 3 km
+Water Stop duration: 10 secs
+Fixed paces for 1st 3 km [ '0:7:30', '0:7:15', '0:7:00' ]
+
+=> Pacer map with marathon pace of 0:6:59 mins/km
+
+time, desc
+00:00:00 => 0:7:30 mins/km pace for km 1
+00:07:30 => 0:7:15 mins/km pace for km 2
+00:14:45 => 0:7:00 mins/km pace for km 3
+00:21:45 => 10 secs waterStop
+00:21:55 => 0:6:59 mins/km pace for km 4
+00:28:54 => 0:6:59 mins/km pace for km 5
+00:35:53 => 0:6:59 mins/km pace for km 6
+00:42:52 => 10 secs waterStop
+00:43:02 => 0:6:59 mins/km pace for km 7
+00:50:01 => 0:6:59 mins/km pace for km 8
+00:57:00 => 0:6:59 mins/km pace for km 9
+01:03:59 => 10 secs waterStop
+01:04:09 => 0:6:59 mins/km pace for km 10
+01:11:08 => 0:6:59 mins/km pace for km 11
+01:18:07 => 0:6:59 mins/km pace for km 12
+01:25:06 => 10 secs waterStop
+01:25:16 => 0:6:59 mins/km pace for km 13
+01:32:15 => 0:6:59 mins/km pace for km 14
+01:39:14 => 0:6:59 mins/km pace for km 15
+01:46:13 => 10 secs waterStop
+01:46:23 => 0:6:59 mins/km pace for km 16
+01:53:22 => 0:6:59 mins/km pace for km 17
+02:00:21 => 0:6:59 mins/km pace for km 18
+02:07:20 => 10 secs waterStop
+02:07:30 => 0:6:59 mins/km pace for km 19
+02:14:29 => 0:6:59 mins/km pace for km 20
+02:21:28 => 0:6:59 mins/km pace for km 21
+02:28:27 => 10 secs waterStop
+02:28:37 => 0:6:59 mins/km pace for km 22
+02:35:36 => 0:6:59 mins/km pace for km 23
+02:42:35 => 0:6:59 mins/km pace for km 24
+02:49:34 => 10 secs waterStop
+02:49:44 => 0:6:59 mins/km pace for km 25
+02:56:43 => 0:6:59 mins/km pace for km 26
+03:03:42 => 0:6:59 mins/km pace for km 27
+03:10:41 => 10 secs waterStop
+03:10:51 => 0:6:59 mins/km pace for km 28
+03:17:50 => 0:6:59 mins/km pace for km 29
+03:24:49 => 0:6:59 mins/km pace for km 30
+03:31:48 => 10 secs waterStop
+03:31:58 => 0:6:59 mins/km pace for km 31
+03:38:57 => 0:6:59 mins/km pace for km 32
+03:45:56 => 0:6:59 mins/km pace for km 33
+03:52:55 => 10 secs waterStop
+03:53:05 => 0:6:59 mins/km pace for km 34
+04:00:04 => 0:6:59 mins/km pace for km 35
+04:07:03 => 0:6:59 mins/km pace for km 36
+04:14:02 => 10 secs waterStop
+04:14:12 => 0:6:59 mins/km pace for km 37
+04:21:11 => 0:6:59 mins/km pace for km 38
+04:28:10 => 0:6:59 mins/km pace for km 39
+04:35:09 => 10 secs waterStop
+04:35:19 => 0:6:59 mins/km pace for km 40
+04:42:18 => 0:6:59 mins/km pace for km 41
+04:49:17 => 0:6:59 mins/km pace for km 42
+04:56:16 => Finish Line
