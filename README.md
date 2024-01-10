@@ -10,9 +10,11 @@ Water Stop duration: 10 secs
 Fixed paces for 1st 3 km [ '0:7:15', '0:7:00', '0:6:45' ]
 ```
 ## Sample Output
-* For [FM 4:30](FM_4:30Hr.txt)
-* For [FM 4:45](FM_4:45Hr.txt)
-* For [FM 5:00](FM_5Hr.txt)
+* [FM 4:30](FM_430Hr.txt)
+* [FM 4:45](FM_445Hr.txt)
+* [FM 5:00](FM_5Hr.txt)
+
+### Following is for `4:45`
 ```
 => Pacer map with marathon pace of 0:6:37 mins/km
 
